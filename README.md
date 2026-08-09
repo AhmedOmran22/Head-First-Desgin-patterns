@@ -15,6 +15,11 @@ key takeaway.
 | 3 | [Decorator](3-decorator/README.md) | Structural | Attach behavior to an object dynamically by wrapping it, instead of subclassing every combination (coffee add-ons). |
 | 4 | [Factory Method](4-factory-method/README.md) | Creational | Let subclasses decide which concrete product class to instantiate (NY/Chicago pizzas). |
 | 5 | [Abstract Factory](5-abstract-factory/README.md) | Creational | Create families of related objects without specifying their concrete classes (regional pizza ingredients). |
+| 6 | [Singleton](6-singleton/README.md) | Creational | Guarantee a class has exactly one instance and provide a global access point to it (chocolate boiler). |
+| 7 | [Command](7-command/README.md) | Behavioral | Encapsulate a request as an object so it can be queued, logged, and undone (remote control). |
+| 8 | [Adapter](8-adapter/README.md) | Structural | Convert one class's interface into another interface clients expect (duck/turkey adapter). |
+| 9 | [Facade](9-facade/README.md) | Structural | Provide one simplified entry point over a complex subsystem (home theater). |
+| 10 | [Proxy](10-proxy/README.md) | Structural | Provide a stand-in for another object to control access to it (lazily-loaded image). |
 
 ## Structure
 
