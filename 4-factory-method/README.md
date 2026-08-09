@@ -256,10 +256,6 @@ void main() {
   `orderPizza("veggie")` on both an `NYPizzaCreator` and a
   `ChicagoPizzaCreator`, getting different concrete pizzas from identical
   calling code.
-- [xd.dart](xd.dart) — a small, standalone Abstract Factory example (UI
-  widgets per OS theme), kept here as a scratch file for comparing the two
-  patterns side by side. See [Abstract Factory](../5-abstract-factory/README.md)
-  for the full write-up of that pattern.
 
 ## When to Use
 
