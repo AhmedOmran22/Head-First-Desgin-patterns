@@ -20,6 +20,11 @@ key takeaway.
 | 8 | [Adapter](8-adapter/README.md) | Structural | Convert one class's interface into another interface clients expect (duck/turkey adapter). |
 | 9 | [Facade](9-facade/README.md) | Structural | Provide one simplified entry point over a complex subsystem (home theater). |
 | 10 | [Proxy](10-proxy/README.md) | Structural | Provide a stand-in for another object to control access to it (lazily-loaded image). |
+| 11 | [Bridge](11-bridge/README.md) | Structural | Decouple an abstraction from its implementation so both can vary independently (remotes and devices). |
+| 12 | [Template Method](12-template-method/README.md) | Behavioral | Define an algorithm's skeleton in a base class, letting subclasses fill in individual steps (caffeine beverages). |
+| 13 | [Composite](13-composite/README.md) | Structural | Compose objects into tree structures and treat individual objects and compositions uniformly (restaurant menus). |
+| 14 | [Iterator](14-iterator/README.md) | Behavioral | Traverse the elements of a collection without exposing its underlying representation (diner/pancake-house menus). |
+| 15 | [State](15-state/README.md) | Behavioral | Let an object alter its behavior when its internal state changes, appearing to change class (gumball machine). |
 
 ## Structure
 
